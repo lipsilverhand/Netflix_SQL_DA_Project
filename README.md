@@ -211,6 +211,22 @@ GROUP BY content_category;
 ```
 Objective: Categorize and count titles based on sensitive keywords.
 
+## 📈 Tableau Dashboard
 ![{47471CD4-4E63-4D69-9540-B873D443339B}](https://github.com/user-attachments/assets/9e1bb45f-c8be-4522-a478-30bfed59ef85)
 ![{D9556AD7-9582-475E-9F53-B91C9C491F2C}](https://github.com/user-attachments/assets/025c7794-59a2-4e20-9f36-acbac710625a)
 
+## ⭐ Findings and Conclusion
+
+### Findings:
+
+1. Between 2012 and 2021, movies dominate Netflix’s catalog, representing 69.62% of all content, while TV shows account for 30.38%.
+2. Within the TV-MA rating category, movies have a higher count (2062) compared to TV shows (1145).
+3. The United States overwhelmingly leads with 3690 titles, followed by India (1046), United Kingdom (805), Canada (445), and France (393).
+4. International Movies stand out as the most prominent genre with 2624 titles, followed by Dramas (1600), Comedies (1210), Action & Adventure (859), and Documentaries (829).
+5. There was a steady growth in average content releases from 2012 (7.20) up to a peak around 2018 (36.63), after which the trend plateaued slightly and then declined in 2021 (14.20).
+6. An overwhelming majority (96.12%) of content descriptions are considered "good" (minimal or no mentions of violence, killing, etc.), while only 3.88% are categorized as "bad".
+
+### Conclusion (Insight):
+- Between 2012 and 2021, Netflix's content strategy strongly favored movies over TV shows, with the U.S. being the primary contributor to its library. International content, particularly movies, played a critical role in genre diversity, highlighting Netflix’s global expansion.
+Content production in the U.S. experienced a consistent rise up to 2018, suggesting a period of aggressive content growth, before seeing a slight decline in 2021, possibly influenced by external factors like the Covid-19 pandemic.
+Overall, Netflix maintained a positive content quality, focusing largely on non-violent entertainment, aligning with a broader audience appeal.
