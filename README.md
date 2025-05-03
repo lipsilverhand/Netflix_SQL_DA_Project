@@ -212,6 +212,8 @@ GROUP BY content_category;
 Objective: Categorize and count titles based on sensitive keywords.
 
 ## 📈 Tableau Dashboard
+Tableau Public Project Dashboard: [click here](https://public.tableau.com/views/Netflix_Dashboard_by_lip/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ![{47471CD4-4E63-4D69-9540-B873D443339B}](https://github.com/user-attachments/assets/9e1bb45f-c8be-4522-a478-30bfed59ef85)
 ![{D9556AD7-9582-475E-9F53-B91C9C491F2C}](https://github.com/user-attachments/assets/025c7794-59a2-4e20-9f36-acbac710625a)
 
